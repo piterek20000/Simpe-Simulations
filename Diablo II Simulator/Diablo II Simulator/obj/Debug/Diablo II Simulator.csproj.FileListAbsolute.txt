@@ -1,0 +1,6 @@
+C:\Users\xXx\Desktop\Diablo II\Diablo II Simulator\Diablo II Simulator\bin\Debug\Diablo II Simulator.exe.config
+C:\Users\xXx\Desktop\Diablo II\Diablo II Simulator\Diablo II Simulator\bin\Debug\Diablo II Simulator.exe
+C:\Users\xXx\Desktop\Diablo II\Diablo II Simulator\Diablo II Simulator\bin\Debug\Diablo II Simulator.pdb
+C:\Users\xXx\Desktop\Diablo II\Diablo II Simulator\Diablo II Simulator\obj\Debug\Diablo II Simulator.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Desktop\Diablo II\Diablo II Simulator\Diablo II Simulator\obj\Debug\Diablo II Simulator.exe
+C:\Users\xXx\Desktop\Diablo II\Diablo II Simulator\Diablo II Simulator\obj\Debug\Diablo II Simulator.pdb
